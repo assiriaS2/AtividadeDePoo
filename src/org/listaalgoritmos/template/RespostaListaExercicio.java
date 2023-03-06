@@ -176,6 +176,7 @@ public class RespostaListaExercicio {
 						menor = array[i];
 					}
 			}
+				
 		System.out.print(maior + " " + menor + " ");
 		
 	}
